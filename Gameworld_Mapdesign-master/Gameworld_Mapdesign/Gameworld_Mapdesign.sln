@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gameworld_Mapdesign", "Gameworld_Mapdesign.csproj", "{3CE4C15B-0E46-4E04-0C7E-A64FEDAB4A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gameworld_Mapdesign.Editor", "Gameworld_Mapdesign.Editor.csproj", "{13D20B07-9033-7B11-A75E-D3280B43DCA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CE4C15B-0E46-4E04-0C7E-A64FEDAB4A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE4C15B-0E46-4E04-0C7E-A64FEDAB4A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE4C15B-0E46-4E04-0C7E-A64FEDAB4A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE4C15B-0E46-4E04-0C7E-A64FEDAB4A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D20B07-9033-7B11-A75E-D3280B43DCA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D20B07-9033-7B11-A75E-D3280B43DCA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D20B07-9033-7B11-A75E-D3280B43DCA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D20B07-9033-7B11-A75E-D3280B43DCA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
